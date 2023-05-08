@@ -1,7 +1,7 @@
 # Go programming language - MongoDB
 
 ## Go Packages
-- mongo [go.mongodb.org/mongo-driver/mongo](go.mongodb.org/mongo-driver/mongo)
+- mongo [https://pkg.go.dev/go.mongodb.org/mongo-driver/mongo](https://pkg.go.dev/go.mongodb.org/mongo-driver/mongo)
 
 ``` bash
 # Install mongo package
